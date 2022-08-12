@@ -1,6 +1,6 @@
-# Conversix
+# Laravel App
 
-Conversix is a web application allowing users to scrape LinkedIn Sales Navigator for job candidates. The user is able to filter their search and retrieve a list of candidates up to their daily allowance.
+This is a web application allowing users to scrape LinkedIn Sales Navigator for job candidates. The user is able to filter their search and retrieve a list of candidates up to their daily allowance.
 
 Data is then available in a list where it can be downloaded / merged and downloaded
 
